@@ -1,0 +1,10 @@
+
+ .fileUploader{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ }
+
+ .fileUploaderContainer{
+    background-color: rgba(142, 202, 90, 0.89);
+ }
